@@ -1,3 +1,5 @@
+## Legal disclaimer:
+Developers assume no liability and are not responsible for any misuse or damage caused by this program
 # Instagram Brute Force 2022
 ### Installation
       git clone https://github.com/redKatz/Instagram-Brute-force-2022
