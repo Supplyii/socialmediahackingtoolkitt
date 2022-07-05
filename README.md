@@ -1,12 +1,13 @@
-## Legal disclaimer:
-Developers assume no liability and are not responsible for any misuse or damage caused by this program
 # Instagram Brute Force 2022
+![](https://i.ibb.co/XjKh18b/Senzanome.png)
 ### Installation
       git clone https://github.com/redKatz/Instagram-Brute-force-2022
       cd Instagram-Brute-Force-2022
       pip3 install -r requirements.txt
       python3 main.py
-   
+## Legal disclaimer:
+Developers assume no liability and are not responsible for any misuse or damage caused by this program
+![]()
 # A look at the tool
 <br>
 
