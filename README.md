@@ -1,5 +1,5 @@
 # Instagram Brute Force 2022
-![](https://i.ibb.co/XjKh18b/Senzanome.png)
+![](https://ibb.co/ry0N7mQ)
 ### Installation
       git clone https://github.com/redKatz/Instagram-Brute-force-2022
       cd Instagram-Brute-Force-2022
