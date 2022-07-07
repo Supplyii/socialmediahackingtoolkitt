@@ -4,6 +4,11 @@
       git clone https://github.com/redKatz/Instagram-Brute-force-2022
       cd Instagram-Brute-Force-2022
       pip3 install -r requirements.txt
+      sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7
+      echo 'deb https://repo.windscribe.com/ubuntu bionic main' | sudo tee /etc/apt/sources.list.d/windscribe-repo.list
+      sudo apt-get update
+      sudo apt-get install windscribe-cli
+      windscribe login
       python3 main.py
 ## Legal disclaimer:
 Developers assume no liability and are not responsible for any misuse or damage caused by this program
@@ -17,6 +22,8 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 ![](https://i.ibb.co/VSQkFFL/ksnip-20220705-231701.png)
 
+## Update:
+### 07/7/22
 
 ### 📱 _Social:_
 [Instagram](https://instagram.com/katz.py/)<br />
