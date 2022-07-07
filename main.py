@@ -86,7 +86,7 @@ for line in Lines:
     except instaloader.exceptions.BadCredentialsException:
         pass
         print(bcolors.FAIL+"Incorret password: "+pstest+bcolors.ENDC)
-    print("sleep for "+ str(sleepp))
+        print("sleep for "+ str(sleepp))
         time.sleep(sleepp)
 
     except instaloader.exceptions.ConnectionException:
