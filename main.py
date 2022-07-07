@@ -91,9 +91,9 @@ for line in Lines:
     except instaloader.exceptions.ConnectionException:
         print(bcolors.FAIL+"\nInstagram has been requested verification via sms, try to set more login time..."+bcolors.ENDC)
         break
-        rint("\n Turn off vpn")
+        print("\n Turn off vpn")
         os.system("\nwindscribe disconnect ")
     except instaloader.exceptions.InvalidArgumentException:
-    	print(bcolors.FAIL+"\nUsername not found"+bcolors.ENDC)
+        print(bcolors.FAIL+"\nUsername not found"+bcolors.ENDC)
         print("\n Turn off vpn")
         os.system("\nwindscribe disconnect ")
