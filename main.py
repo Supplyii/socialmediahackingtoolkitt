@@ -75,7 +75,7 @@ for line in Lines:
     	pass
     	print(bcolors.FAIL+"Incorret password: "+pstest+bcolors.ENDC)
     except instaloader.exceptions.ConnectionException:
-    	print(bcolors.FAIL+"\nInstagram ha bloccato il tuo indirizzo ip"+bcolors.ENDC)
+    	print(bcolors.FAIL+"\nInstagram has been blocked your ip addres."+bcolors.ENDC)
     	break
     except instaloader.exceptions.InvalidArgumentException:
-    	print(bcolors.FAIL+"\nL'username selezionato non esiste"+bcolors.ENDC)
+    	print(bcolors.FAIL+"\nUsername not found"+bcolors.ENDC)
