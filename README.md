@@ -31,7 +31,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 <br>
 
-![](https://i.ibb.co/VSQkFFL/ksnip-20220705-231701.png)
+![](https://i.ibb.co/k38ypY5/Screenshot-20220724-205341.png)
 
 ## Update:
 
