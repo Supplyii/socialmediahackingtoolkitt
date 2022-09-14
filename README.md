@@ -57,5 +57,4 @@ With the use of windscribe vpn every access that will be made will change ip add
 ### ⠀
 
 
-![image alt text](https://i.ibb.co/D1Bbb7v/Untitled.png)
 
