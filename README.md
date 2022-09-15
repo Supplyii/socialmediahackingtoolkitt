@@ -35,8 +35,14 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 ## Update:
 
-### 07/7/22:
+### 0.1.0:
 With the use of windscribe vpn every access that will be made will change ip address, so doing will avoid ip banning
+<details>
+  <summary>To do</summary>
+  1. Windows support
+  2. ProtonVpn download
+
+</details>
 
 
 ### 📱 _Social:_
