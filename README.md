@@ -1,6 +1,6 @@
 
 # Instagram Brute Force 2022
-![](https://i.ibb.co/q1jVydD/Senzanomee.png)
+![](https://i.ibb.co/MShrzLz/banner-1-63224d117aacb.png)
 ### Installation
       #create an account here: https://windscribe.com/login, for vpn
       git clone https://github.com/redKatz/Instagram-Brute-force-2022
