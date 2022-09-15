@@ -39,7 +39,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 With the use of windscribe vpn every access that will be made will change ip address, so doing will avoid ip banning
 <details>
   <summary>To do</summary>
-  1. Windows support
+  1. Windows support</br>
   2. ProtonVpn download
 
 </details>
