@@ -42,8 +42,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
   
   0.1.0</br>
   1. Windscribe VPN</br>
-  2. Wordlist choice</br>
-  0.1.1</br>
+  2. Wordlist choice</br>0.1.1</br>
   1. Bug correction</br>
   2. Code improvement</br>
   3. Added file for definition</br>
