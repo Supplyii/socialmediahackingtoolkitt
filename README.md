@@ -39,18 +39,15 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 <details>
   <summary>Update History</summary>
-  <details>
-      <summary>0.1.0</summary>
-  ### 0.1.0
-  1. Windscribe VPN
-  2. Wordlist choice
-<details>
-<details>
-      <summary>0.1.1</summary>
-  1. Bug correction
-  2. Code improvement
-  3. Added file for definition
-<details>
+  
+  0.1.0</br>
+  1. Windscribe VPN</br>
+  2. Wordlist choice</br>
+  0.1.1</br>
+  1. Bug correction</br>
+  2. Code improvement</br>
+  3. Added file for definition</br>
+
 
 </details>
 
