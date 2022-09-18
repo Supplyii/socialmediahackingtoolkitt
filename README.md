@@ -48,15 +48,19 @@ With the use of windscribe vpn every access that will be made will change ip add
 
 <details>
   <summary>Update History</summary>
-  
+  <details>
+      <summary>0.1.0</summary>
   ### 0.1.0
   1. Windscribe VPN
   2. Wordlist choice
-  ---
-  ### 0.1.1
+  <details>
+<details>
+      <summary>0.1.1</summary>
   1. Bug correction
   2. Code improvement
   3. Added file for definition
+<details>
+
 </details>
 
 
