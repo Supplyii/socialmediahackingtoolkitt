@@ -33,16 +33,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 ![](https://camo.githubusercontent.com/27dc2735919e7b4e1142ffd2b7bed1f6884605750125a879a77c4f701dce7cc1/68747470733a2f2f692e6962622e636f2f5653516b46464c2f6b736e69702d32303232303730352d3233313730312e706e67)
 
-## Update:
 
-### 0.1.0:
-With the use of windscribe vpn every access that will be made will change ip address, so doing will avoid ip banning
-<details>
-  <summary>To do</summary>
-  1. Windows support</br>
-  2. ProtonVpn download
-
-</details>
 
 
 
@@ -53,7 +44,7 @@ With the use of windscribe vpn every access that will be made will change ip add
   ### 0.1.0
   1. Windscribe VPN
   2. Wordlist choice
-  <details>
+<details>
 <details>
       <summary>0.1.1</summary>
   1. Bug correction
