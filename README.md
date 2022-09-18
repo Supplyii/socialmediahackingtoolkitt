@@ -47,20 +47,16 @@ With the use of windscribe vpn every access that will be made will change ip add
 
 
 <details>
-  <summary>Click me</summary>
+  <summary>Update History</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  ### 0.1.0
+  1. Windscribe VPN
+  2. Wordlist choice
+  ---
+  ### 0.1.1
+  1. Bug correction
+  2. Code improvement
+  3. Added file for definition
 </details>
 
 
