@@ -2,16 +2,13 @@
 # Instagram Brute Force 2022
 ![](https://i.ibb.co/MShrzLz/banner-1-63224d117aacb.png)
 ### Installation
-      #create an account here: https://windscribe.com/login, for vpn
-      git clone https://github.com/redKatz/Instagram-Brute-force-2022
-      cd Instagram-Brute-Force-2022
-      pip3 install -r requirements.txt
-      sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7
-      echo 'deb https://repo.windscribe.com/ubuntu bionic main' | sudo tee /etc/apt/sources.list.d/windscribe-repo.list
-      sudo apt-get update
-      sudo apt-get install windscribe-cli
-      windscribe login
-      python3 main.py
+      LINUX
+      git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
+      cd Instagram-Brute-force-2022
+      cd Linux
+      cd setup
+      python3 run_setup.py
+      
 
 ## Legal disclaimer:
 
