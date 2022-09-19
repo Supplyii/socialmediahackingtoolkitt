@@ -9,6 +9,8 @@
       cd setup
       sudo su
       python3 run_setup.py
+      cd ..
+      python3 main.py
       
       
 
