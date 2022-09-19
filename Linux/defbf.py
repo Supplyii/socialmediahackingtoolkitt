@@ -24,7 +24,7 @@ def start():
      ▒ ░░ ░░   ░ ▒░░ ░▒  ░ ░    ░      ▒   ▒▒ ░  ░   ░   ░▒ ░ ▒░  ▒   ▒▒ ░░  ░      ░   
      ▒ ░   ░   ░ ░ ░  ░  ░    ░        ░   ▒   ░ ░   ░   ░░   ░   ░   ▒   ░      ░      
      ░           ░       ░                 ░  ░      ░    ░           ░  ░       ░      bruteforce
-
+    Version: 0.1.1
     https://github.com/redKatz
     https://www.instagram.com/katz.py                                                                                    
     '''
