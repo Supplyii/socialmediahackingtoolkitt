@@ -2,12 +2,14 @@
 # Instagram Brute Force 2022
 ![](https://i.ibb.co/MShrzLz/banner-1-63224d117aacb.png)
 ### Installation
-      LINUX
+      #LINUX
       git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
       cd Instagram-Brute-force-2022
       cd Linux
       cd setup
+      sudo su
       python3 run_setup.py
+      
       
 
 ## Legal disclaimer:
