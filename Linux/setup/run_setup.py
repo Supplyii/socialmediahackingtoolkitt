@@ -7,10 +7,7 @@ command("clear")
 
 
 start = input("Welcome to setup, start setup? [y/n]\n: ")
-if start == "y":
-	pass
-else:
-	exit()
+
 print("\n\nWINDSCRIBE VPN INSTALLATION\n\n")
 
 command("apt-get update")
