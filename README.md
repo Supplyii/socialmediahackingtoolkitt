@@ -11,6 +11,14 @@
       cd ..
       python3 main.py
       
+      #TERMUX
+      git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
+      cd Instagram-Brute-force-2022
+      cd Termux
+      pip3 install -r requirements.txt
+      python3 main.py
+      
+      
       
 
 ## Legal disclaimer:
