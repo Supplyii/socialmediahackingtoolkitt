@@ -1,4 +1,0 @@
-password_test
-replace_with_wowrd_list
-pass1234
-pass2468
