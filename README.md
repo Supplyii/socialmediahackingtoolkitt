@@ -39,7 +39,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 <br>
 
-![](https://camo.githubusercontent.com/27dc2735919e7b4e1142ffd2b7bed1f6884605750125a879a77c4f701dce7cc1/68747470733a2f2f692e6962622e636f2f5653516b46464c2f6b736e69702d32303232303730352d3233313730312e706e67)
+![](https://img.shields.io/badge/written%20in-bash-green)
 
 
 
