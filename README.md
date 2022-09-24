@@ -39,7 +39,6 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 <br>
 
-![](https://img.shields.io/badge/written%20in-bash-green)
 
 
 
