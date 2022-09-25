@@ -79,7 +79,13 @@
 - **Debian**
 - **Termux**
 </details>
+ 
+  
+<b>Instagram brute force 2022</b> requires following programs to run properly - 
+- `windscribe-cli`
+- `instaloader`
 
+##
 
 <h3 align="center"><i>:: Tool ::</i></h3>
 <p align="center">
