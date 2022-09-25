@@ -83,6 +83,7 @@
 
 <h3 align="center"><i>:: Tool ::</i></h3>
 <p align="center">
-<img url="https://i.ibb.co/hsPnfrz/2022-09-25-17-43.png"/>
 </p>
-  
+<p align="center">
+  <img src="https://i.ibb.co/hsPnfrz/2022-09-25-17-43.png" alt=""/>
+</p>
