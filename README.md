@@ -37,36 +37,34 @@
   - Windows
   - Termux (only cli)
 
+  
+  
+ ### Installation
 
-### Installation
-      #LINUX, [make sure to run the setup as sudo (for apt-get windscribe-cli command)]
-      git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
-      cd Instagram-Brute-force-2022
-      cd Linux
-      cd setup
-      python3 run_setup.py
-      cd ..
-      python3 main.py
-      
-      #TERMUX
-      git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
-      cd Instagram-Brute-force-2022
-      cd Termux
-      pip3 install -r requirements.txt
-      python3 main.py
-      
-      
-      
+- Linux -
+  ```
+  git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
+  cd Instagram-Brute-force-2022
+  cd Linux
+  cd setup
+  python3 run_setup.py
+  cd ..
+  python3 main.py
+  ```
 
-## Legal disclaimer:
+- Termux -
+  ```
+  git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
+  cd Instagram-Brute-force-2022
+  cd Termux
+  pip3 install -r requirements.txt
+  python3 main.py
+  ``` 
+ 
+##
 
-Developers assume no liability and are not responsible for any misuse or damage caused by this program
-
-
-
-![]()
-
-
+ 
+  
 # A look at the tool
 
 <br>
