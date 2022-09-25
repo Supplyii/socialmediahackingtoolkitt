@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://i.ibb.co/jMyQdG4/logo.png" alt=""/>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/<Written in>-<python>-<blue>" alt=""/>
+</p>
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 ### Installation
       #LINUX, [make sure to run the setup as sudo (for apt-get windscribe-cli command)]
       git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
