@@ -41,7 +41,7 @@
   
  ### Installation
 
-- Linux -
+- Linux
   ```
   git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
   cd Instagram-Brute-force-2022
@@ -52,7 +52,7 @@
   python3 main.py
   ```
 
-- Termux -
+- Termux
   ```
   git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
   cd Instagram-Brute-force-2022
@@ -60,12 +60,17 @@
   pip3 install -r requirements.txt
   python3 main.py
   ``` 
+- Windows
+  ```
+  Download zip file
+  Go inside Windows folder
+  Run main.py or main.exe
+  
+  ``` 
  
 ##
 
  
-  
-# A look at the tool
 
 <br>
 
