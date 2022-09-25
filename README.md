@@ -8,7 +8,9 @@
 
 </p>
 
+---
 
+### Disclaimer {align=center}
 
 ### Installation
       #LINUX, [make sure to run the setup as sudo (for apt-get windscribe-cli command)]
