@@ -9,8 +9,11 @@
 </p>
 
 ---
+<div style="font-style: italic; text-align: center;" markdown="1">
 
-### Disclaimer {align=center}
+#### Disclaimer
+
+</div>
 
 ### Installation
       #LINUX, [make sure to run the setup as sudo (for apt-get windscribe-cli command)]
