@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/jMyQdG4/logo.png" alt=""/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.2.0-green" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
@@ -9,7 +10,7 @@
 </p>
 
 ---
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style="font-style: italic; align: center;" markdown="1">
 
 #### Disclaimer
 
