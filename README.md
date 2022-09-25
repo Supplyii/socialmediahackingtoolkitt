@@ -77,7 +77,6 @@
 
 - **Ubuntu**
 - **Debian**
-- **Raspbian**
 - **Termux**
 </details>
 
