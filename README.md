@@ -1,6 +1,3 @@
-
-# Instagram Brute Force 2022
-
 <p align="center">
   <img src="https://i.ibb.co/jMyQdG4/logo.png" alt=""/>
 </p>
