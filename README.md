@@ -1,6 +1,6 @@
 
 # Instagram Brute Force 2022
-![](https://i.ibb.co/MShrzLz/banner-1-63224d117aacb.png)
+![](https://i.ibb.co/jMyQdG4/logo.png)
 ### Installation
       #LINUX, [make sure to run the setup as sudo (for apt-get windscribe-cli command)]
       git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
