@@ -81,8 +81,8 @@
 </details>
 
 
-<h3 align="center"><i>:: Workflow ::</i></h3>
+<h3 align="center"><i>:: Tool ::</i></h3>
 <p align="center">
-<img src="https://i.ibb.co/hsPnfrz/2022-09-25-17-43.png"/>
+<img url="https://i.ibb.co/hsPnfrz/2022-09-25-17-43.png"/>
 </p>
   
