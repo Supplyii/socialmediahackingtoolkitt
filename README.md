@@ -81,7 +81,7 @@
 </details>
  
   
-<b>Instagram brute force 2022</b> requires following programs to run properly - 
+<b>Instagram brute force 2022</b> requires following programs to run properly 
 - `windscribe-cli`
 - `instaloader`
 
