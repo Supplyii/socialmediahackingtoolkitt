@@ -72,40 +72,13 @@
 
  
 
-<br>
+<details>
+  <summary><h3>Tested on</h3></summary>
 
-
-![](https://i.ibb.co/tPVVVx1/ksnip-20220705-231621.png)
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-### 📱 _Social:_
-
-
-[Instagram](https://instagram.com/katz.py/)<br />
-
-
-
-[Github](https://github.com/redKatz/)<br />
-
-
-
-[Jami](https://i.ibb.co/cXRSMQR/Screenshot-2022-06-15-16-11-19.png)
-
-
-
-### ⠀
-
+- **Ubuntu**
+- **Debian**
+- **Raspbian**
+- **Termux**
+</details>
 
 
