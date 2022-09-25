@@ -10,7 +10,7 @@
 </p>
 
 ----
-<center>
+</center>
 #### Disclaimer
 </center>
 
