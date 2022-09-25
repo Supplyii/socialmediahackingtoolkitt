@@ -10,9 +10,9 @@
 </p>
 
 ----
-<div style="font-style: italic; align: center;" markdown="1">
-
+<center>
 #### Disclaimer
+</center>
 
 </div>
 
