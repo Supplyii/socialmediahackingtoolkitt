@@ -9,10 +9,9 @@
 
 </p>
 
-----
-<p align="center">
+##
 
-#### Disclaimer
+<h3><p align="center">Disclaimer</p></h3>
  
 </p>
 
