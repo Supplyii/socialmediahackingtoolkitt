@@ -10,9 +10,11 @@
 </p>
 
 ----
-</center>
+<p align="center">
+
 #### Disclaimer
-</center>
+ 
+</p>
 
 </div>
 
