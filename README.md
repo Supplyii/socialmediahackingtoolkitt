@@ -45,10 +45,8 @@
   ```
   git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
   cd Instagram-Brute-force-2022
-  cd Linux
-  cd setup
-  python3 run_setup.py
-  cd ..
+  cd linux
+  python3 setup.py
   python3 main.py
   ```
 
