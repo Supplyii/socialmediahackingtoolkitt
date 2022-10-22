@@ -75,6 +75,7 @@
 
 - **Ubuntu**
 - **Debian**
+- **Arch**
 - **Termux**
 </details>
  
