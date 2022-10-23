@@ -35,7 +35,7 @@
 - Compatible with
   - Linux
   - Windows
-  - termux (only cli)
+  - Termux (only cli)
 
  ## 
   
@@ -54,7 +54,7 @@
   ```
   git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
   cd Instagram-Brute-force-2022
-  cd Termux
+  cd termux
   pip3 install -r requirements.txt
   python3 main.py
   ``` 
