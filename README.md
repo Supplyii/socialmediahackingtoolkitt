@@ -35,7 +35,7 @@
 - Compatible with
   - Linux
   - Windows
-  - Termux (only cli)
+  - termux (only cli)
 
  ## 
   
