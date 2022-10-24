@@ -40,6 +40,10 @@
  ## 
   
  ### Installation
+- Install with one command
+  ```
+  git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/ && cd Instagram-Brute-force-2022 && cd src && python3 setup.py && cd .. && python3 main.py
+
 
 - Linux
   ```
@@ -52,9 +56,11 @@
 
 - Windows
   ```
-  Download zip file
-  Go inside Windows folder
-  Run main.py or main.exe
+  git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
+  cd Instagram-Brute-force-2022
+  cd src && python3 setup.py
+  cd ..
+  python3 main.py
   
   ``` 
  
