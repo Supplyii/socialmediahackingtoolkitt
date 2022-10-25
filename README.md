@@ -18,7 +18,7 @@
 </div>
 
 
-<i>Any actions and or activities related to <b>Instagram-Brute-force-2022</b> is solely your responsibility. The misuse of this tool can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this tool to break the law.
+<i>Any actions and or activities related to <b>instaForce</b> is solely your responsibility. The misuse of this tool can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this tool to break the law.
 
 <b>This tool contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
