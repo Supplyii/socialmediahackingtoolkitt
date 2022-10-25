@@ -42,14 +42,14 @@
  ### Installation
 - Install with one command
   ```
-  git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/ && cd Instagram-Brute-force-2022 && cd src && python3 setup.py && cd .. && python3 main.py
+  git clone https://github.com/SamueleAmato/instaForce/ && cd instaForce && cd src && python3 setup.py && cd .. && python3 main.py
   ```
 
 
-- Linux
+- Linux - Termux
   ```
-  git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
-  cd Instagram-Brute-force-2022
+  git clone https://github.com/SamueleAmato/instaForce/
+  cd instaForce
   cd src && python3 setup.py
   cd ..
   python3 main.py
@@ -57,8 +57,8 @@
 
 - Windows
   ```
-  git clone https://github.com/SamueleAmato/Instagram-Brute-force-2022/
-  cd Instagram-Brute-force-2022
+  git clone https://github.com/SamueleAmato/instaForce/
+  cd instaForce
   cd src && python3 setup.py
   cd ..
   python3 main.py
@@ -79,7 +79,7 @@
 </details>
  
   
-<b>Instagram brute force 2022</b> requires following programs to run properly 
+<b>instaForce 2022</b> requires following programs to run properly 
 - `windscribe-cli`
 - `instaloader`
 
