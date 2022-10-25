@@ -53,6 +53,7 @@ if sys == "2":
                                                           --> Arch['''+color.UNDERLINE+color.BLUE+'''Install yay | yay install windscribe-cli '''+color.END+''']
 
     \n\n''')
+    input("press any key to continue")
 else:
     print(color.YELLOW+'''\nSetup successfully completed'''+color.END+'''
 ''')
