@@ -89,7 +89,7 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/hsPnfrz/2022-09-25-17-43.png" alt=""/>
+  <img src="https://i.ibb.co/4SgSNTq/logo-sotto.png" alt=""/>
 </p>
  
   
