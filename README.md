@@ -27,6 +27,25 @@
 
 ##
 
+### Usage
+    usage: igkit    [-h] [--version] [--verbose] [--port]
+                    [--bruteforce] [--phishing] [--report] [--username]
+                    [--wordlist] [--vpn] [--sleep-time] [--amount]
+
+    Instagram Hacking Toolkit: Find Usernames Across Social Networks (Version 0.14.2)
+
+    examples:
+              **the order can be random**
+
+              bruteforce attack:   igkit.py --username "victim username" --wordlist "wordlist name" --sleep-time "sleep time" --vpn "on or off"
+              phishing attack:     igkit.py --port "8080"
+              mass report attack:  igkit.py --report --username "username" --amount "amount"
+
+    -h, --help                         Show this help message and exit
+    --version, --verbose, --v          Display version information and dependencies.       
+
+##
+
 ### Features
   
 - Beginners friendly
