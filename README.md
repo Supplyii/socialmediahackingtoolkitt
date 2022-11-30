@@ -72,7 +72,7 @@
   
 <b>Instagram-Hacking-Toolkit</b> requires following programs to run properly 
 - `windscribe-cli`
-- `instaloader`
+- `python3`
 
 ##
 
