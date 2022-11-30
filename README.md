@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.ibb.co/0G0Y766/logo.png" alt=""/>
+  <img src="https://i.ibb.co/CJ92jzN/logo.png" alt=""/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.3.0-green" alt=""/>
-  <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
-  <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2" alt=""/>
+  <img src="https://img.shields.io/badge/Version-0.3.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Written in-Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2?style=for-the-badge">
 
 </p>
 
@@ -18,7 +18,7 @@
 </div>
 
 
-<i>Any actions and or activities related to <b>instaForce</b> is solely your responsibility. The misuse of this tool can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this tool to break the law.
+<i>Any actions and or activities related to <b>Instagram Hacking Toolkit</b> is solely your responsibility. The misuse of this tool can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this tool to break the law.
 
 <b>This tool contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
@@ -42,29 +42,20 @@
  ### Installation
 - Install with one command
   ```
-  git clone https://github.com/SamueleAmato/instaForce/ && cd instaForce && cd src && python3 setup.py && cd .. && python3 main.py
+  git clone https://github.com/SamueleAmato/Instagram-Hacking-Toolkit/ && cd "Instagram-Hacking-Toolkit" && cd src && python3 setup.py && cd .. && python3 igkit.py --help
   ```
 
 
 - Linux - Termux
   ```
-  git clone https://github.com/SamueleAmato/instaForce/
-  cd instaForce
+  git clone https://github.com/SamueleAmato/Instagram-Hacking-Toolkit/
+  cd "Instagram-Hacking-Toolkit"
   cd src && python3 setup.py
   cd ..
-  python3 main.py
+  python3 igkit.py --help
   ```
 
-- Windows
-  ```
-  git clone https://github.com/SamueleAmato/instaForce/
-  cd instaForce
-  cd src && python3 setup.py
-  cd ..
-  python3 main.py
   
-  ``` 
- 
 ##
 
  
@@ -79,7 +70,7 @@
 </details>
  
   
-<b>instaForce 2022</b> requires following programs to run properly 
+<b>Instagram-Hacking-Toolkit</b> requires following programs to run properly 
 - `windscribe-cli`
 - `instaloader`
 
