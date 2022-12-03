@@ -1279,7 +1279,7 @@ if systemis == "Windows":
 
           elif sys.argv[1] == "--version" or sys.argv[1] == "--verbose" or sys.argv[1] == "-v":
                print('''
-          Version: 0.3.0 
+          Version: 0.3.1 
           Dependencies: python3, requests, pyfiglet, colorama, php, windscribe-cli (optional)
 
 
@@ -2628,7 +2628,7 @@ try:
 
      elif sys.argv[1] == "--version" or sys.argv[1] == "--verbose" or sys.argv[1] == "-v":
           print('''
-     Version: 0.3.0 
+     Version: 0.3.1
      Dependencies: python3, requests, pyfiglet, colorama, php, windscribe-cli (optional)
 
 
