@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.3.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-0.3.1-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Written in-Python-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2?style=for-the-badge">
 
