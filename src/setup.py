@@ -70,4 +70,5 @@ if sys == "4":
     os.system("pip install pyfiglet")
     os.system("pip install colorama")
     input("python main.py to run the program; \nPress enter to exit. ")
-    os.system("touch setup_ver.py")
+    print("create setup_ver.py file in this folder")
+os.system("touch setup_ver.py")
