@@ -16,7 +16,7 @@ try:
      from src.setup_ver import *
 except  Exception:
      if systemis == "nosys":
-          scelta_nosys = input("wich system are you using? \n1) Linux\n2) Termux\n3) Windows")
+          scelta_nosys = input("The Setup was not performed correctlywich system are you using? \n1) Linux\n2) Termux\n3) Windows\n> ")
           if scelta_nosys == "3":
                os.chdir("src")
                os.system("python setup.py")
