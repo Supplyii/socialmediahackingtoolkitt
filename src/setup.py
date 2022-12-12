@@ -60,7 +60,7 @@ if sys == "2":
 print(color.YELLOW+'''\nSetup successfully completed'''+color.END+'''
 ''')
     
-os.system("touch setup_ver.py")
+    os.system("touch setup_ver.py")
 
 if sys == "3":
     os.system("pkg install php")
