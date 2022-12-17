@@ -18,7 +18,7 @@
 </div>
 
 
-<i>Any actions and or activities related to <b>Instagram Hacking Toolkit</b> is solely your responsibility. The misuse of this tool can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this tool to break the law.
+<i>Any actions and or activities related to <b>SocialMediaHackingToolkit</b> is solely your responsibility. The misuse of this tool can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this tool to break the law.
 
 <b>This tool contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
@@ -42,17 +42,17 @@
  ### Installation
 - Install with one command
  
-      git clone https://github.com/SamueleAmato/Instagram-Hacking-Toolkit/ && cd "Instagram-Hacking-Toolkit" && cd src && python3 setup.py && cd .. && python3 smh.py 
+      git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/ && cd "SocialMediaHackingToolkit" && cd src && python3 setup.py && cd .. && python3 smh.py 
   
 - Linux - Termux
 #### Clone the repo
   ```
-  git clone https://github.com/SamueleAmato/Instagram-Hacking-Toolkit/
+  git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/
   ```
 
 #### go into tool folder
   ```
-  cd "Instagram-Hacking-Toolkit"
+  cd "SocialMediaHackingToolkit"
   ```
 #### go into src fodler
   ```
@@ -87,7 +87,7 @@
 </details>
  
   
-<b>Instagram-Hacking-Toolkit</b> requires following programs to run properly 
+<b>SocialMediaHackingToolkit</b> requires following programs to run properly 
 - `windscribe-cli`
 - `python3`
 
