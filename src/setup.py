@@ -11,3 +11,5 @@ elif scelta == "2":
     os.system("pip3 install mechanize")
     os.system("pip3 install secure-smtplib")
 print("Run python smh.py to run the program")
+
+print("WARNING: vpn doesn't work on windwos and termux, also to use it on linux systems you have to install windscribe-cli; tutorial --> https://www.geeksforgeeks.org/how-to-setup-vpn-on-ubuntu-linux-system-for-ip-spoofing-using-windscribe/")
