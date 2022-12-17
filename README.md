@@ -40,37 +40,26 @@
  ## 
   
  ### Installation
-- Install with one command
+- Install with one command (linux)
  
       git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/ && cd "SocialMediaHackingToolkit" && cd src && python3 setup.py && cd .. && python3 smh.py 
   
 - Linux - Termux
-#### Clone the repo
+
   ```
   git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/
-  ```
-
-#### go into tool folder
-  ```
   cd "SocialMediaHackingToolkit"
-  ```
-#### go into src fodler
-  ```
   cd src
-  ```
-#### run setup
-  ```
   python3 setup.py
-  ```
-#### go back into main fodler
-  ```
   cd ..
-  ```
-#### run the program
-  ```
   python3 smh.py
   ```
-
+- Windows
+  ```
+  download the zip file
+  go inside the src folder and run setup.py
+  now go inside main folder and run smh.py
+  ```
   
 ##
 
