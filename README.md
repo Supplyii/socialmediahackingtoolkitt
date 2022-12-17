@@ -66,12 +66,29 @@
 
 
 - Linux - Termux
+#### Clone the repo
   ```
   git clone https://github.com/SamueleAmato/Instagram-Hacking-Toolkit/
+  ```
+
+#### go into tool folder
+  ```
   cd "Instagram-Hacking-Toolkit"
+  ```
+#### go into src fodler
+  ```
   cd src
+  ```
+#### run setup
+  ```
   python3 setup.py
+  ```
+#### go back into main fodler
+  ```
   cd ..
+  ```
+#### run the program
+  ```
   python3 igkit.py --help
   ```
 
