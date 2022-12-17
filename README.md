@@ -69,7 +69,8 @@
   ```
   git clone https://github.com/SamueleAmato/Instagram-Hacking-Toolkit/
   cd "Instagram-Hacking-Toolkit"
-  cd src && python3 setup.py
+  cd src
+  python3 setup.py
   cd ..
   python3 igkit.py --help
   ```
