@@ -27,8 +27,6 @@
 
 ##
 
-##
-
 ### Features
   
 - Beginners friendly
@@ -44,7 +42,7 @@
  ### Installation
 - Install with one command
   ```
-  git clone https://github.com/SamueleAmato/Instagram-Hacking-Toolkit/ && cd "Instagram-Hacking-Toolkit" && cd src && python3 setup.py && cd .. && python3 smh.py --help
+git clone https://github.com/SamueleAmato/Instagram-Hacking-Toolkit/ && cd "Instagram-Hacking-Toolkit" && cd src && python3 setup.py && cd .. && python3 smh.py --help
   ```
 
 
