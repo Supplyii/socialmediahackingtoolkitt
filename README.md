@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.3.1-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Written in-Python-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Author-RedKatz-937DC2?style=for-the-badge">
 
 </p>
 
@@ -42,12 +42,12 @@
  ### Installation
 - Install with one command (linux)
  
-      git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/ && cd "SocialMediaHackingToolkit" && cd src && python3 setup.py && cd .. && python3 smh.py 
+      git clone https://github.com/RedKatz/SocialMediaHackingToolkit/ && cd "SocialMediaHackingToolkit" && cd src && python3 setup.py && cd .. && python3 smh.py 
   
 - Linux - Termux
 
   ```
-  git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/
+  git clone https://github.com/RedKatz/SocialMediaHackingToolkit/
   cd "SocialMediaHackingToolkit"
   cd src
   python3 setup.py
