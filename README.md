@@ -3,11 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.3.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Written in-Python & Php-2596be?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Author-RedKatz-937DC2?style=for-the-badge">
-
+  <img src="https://img.shields.io/badge/Version-0.3.1-purple?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/RedKatz/SocialMediaHackingToolkit?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/RedKatz/SocialMediaHackingToolkit?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/RedKatz/SocialMediaHackingToolkit?style=for-the-badge">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-RedKatz-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python & Php-darkcyan?style=flat-square">
+</p>
+
 
 ##
 
