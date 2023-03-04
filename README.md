@@ -26,7 +26,14 @@
 </div>
 
 
-<i>Any actions and or activities related to <b>SocialMediaHackingToolkit</b> is solely your responsibility. The misuse of this tool can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this tool to break the law.
+<i><b>SocialMediaHackingToolkit</b> has been created solely for educational and research purposes. I do not take any responsibility for any improper use of the software by third parties.
+
+The use of <b>SocialMediaHackingToolk</b> for illegal purposes, such as unauthorized access to computer systems, is illegal and may result in legal consequences.
+
+Additionally, the use of <b>SocialMediaHackingToolkit</b> may violate the security and privacy policies of third parties, such as Instagram, Facebook, Twitter, or Gmail. I do not take any responsibility for any violations of regulations by the user.
+
+It is recommended to use <b>SocialMediaHackingToolkit</b> only with explicit authorization from the system owner and to always comply with the regulations regarding computer security and privacy.
+
 
 <b>This tool contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
