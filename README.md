@@ -37,7 +37,7 @@ It is recommended to use <b>SocialMediaHackingToolkit</b> only with explicit aut
 
 <b>This tool contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
-<b>This Tool is made for educational purposes only</b>.
+<b>This Tool is made for educational purposes only</b>.</i>
 
 
 ##
