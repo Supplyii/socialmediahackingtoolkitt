@@ -1,5 +1,5 @@
 
-## New versione coming soon!!!
+## New version coming soon!!!
 
 
 <p align="center">
