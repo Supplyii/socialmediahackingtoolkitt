@@ -67,7 +67,7 @@ cd SocialMediaHackingToolkit
 
 cd Dipendencies
 
-xbps-rindex -a windscribe-cli.xbps
+sudo dpkg -i windscribe-cli.deb
 
 windscirbe login 
 
@@ -119,8 +119,8 @@ cd Dipendencies
 
 sudo dpkg -i windscribe-cli
 
-sudo xbps-install --repository=$PWD windscribe-cli
-</div>
+xbps-rindex -a windscribe-cli.xbps
+
 windscirbe login 
 
 cd ../cmd
@@ -142,7 +142,7 @@ cd SocialMediaHackingToolkit
 
 cd Dipendencies
 
-xbps-rindex -a windscribe-cli.xbps
+sudo dpkg -i windscribe-cli.deb
 
 windscirbe login 
 
