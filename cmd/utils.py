@@ -126,7 +126,7 @@ def get_wordlist():
 
 def insta_bruteforce(username, wordlist, vpn):
   spam_bool = 1
-  c_spam = 99
+  c_spam = 0
 
   try:
       wl_file = open("wordlist/"+wordlist, 'r')
