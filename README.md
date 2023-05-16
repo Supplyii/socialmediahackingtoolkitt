@@ -126,7 +126,7 @@ windscirbe login
 
 cd ../cmd
 
-pip3 install requirements.txt && cd..
+pip3 install -r requirements.txt && cd..
 
 chmod +x linux.sh
 
