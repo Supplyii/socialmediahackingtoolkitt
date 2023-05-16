@@ -133,7 +133,7 @@ def insta_bruteforce(username, wordlist, vpn):
       wl_lines = [line.strip() for line in wl_file.readlines()]  # Rimuovi i caratteri di nuova riga
       count = 0
   except FileNotFoundError:
-      print("\n\nEERROR 1x01:"+color.RED+" wordlist not found, please insert your wordlist in 'wordlist' folder.\n\n"+color.END)
+      print("\n\nEERROR 1x01:"+color.RED+" wordlist not found, please insert your wordlist into the 'wordlist' folder.\n\n"+color.END)
       exit()  
 
   rs = requests.session()
