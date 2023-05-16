@@ -66,7 +66,7 @@ def c1():
   return choice
 
 def vpn_error():
-  print("\n\nERROR 0x03:"+color.RED+" Unable to enable VPN on Windows\n\n"+color.END)
+  print("\n\nERROR 0x03: "+color.RED+"Unable to enable VPN on Windows\n\n"+color.END)
   exit()
 
 def c_vpn():
