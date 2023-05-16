@@ -15,7 +15,7 @@ Social Media Hacking Toolkit
 
 
  <h6><p align="center">
-    perform different types of <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/cmd/supported-social.txt">social media</a>
+    perform different types of <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
 </p></h6>
 </p>
 <p align="center">
