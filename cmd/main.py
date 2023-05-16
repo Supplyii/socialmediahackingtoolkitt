@@ -13,8 +13,7 @@ vpn = c_vpn()
 
 if vpn == 1:
 	if "Linux" not in platform.system():
-		print("vpn not viable on WIndows!")
-		exit()
+		vpn_error()
 
 
 
