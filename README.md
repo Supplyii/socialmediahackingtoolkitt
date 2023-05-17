@@ -158,6 +158,25 @@ chmod +x linux.sh
 ./linux.sh
 ```
 
+<h5><p align="center">Termux</p></h3>
+
+
+```
+git clone https://github.com/RedKatz/SocialMediaHackingToolkit
+
+cd SocialMediaHackingToolkit
+
+cd cmd
+
+pip3 install -r requirements.txt
+
+cd ..
+
+chmod +x linux.sh
+
+./linux.sh
+```
+
 <h5><p align="center">Windows</p></h3>
 
 
