@@ -328,7 +328,7 @@ If you have encountered an issue with SocialMediaHackingToolkit or would like to
 
 
  <h4><p align="center">
-Reach me for commissioned programs or colab on:
+Reach me for commissioned programs or collab on:
 </p></h4>
 
 <p align="center">
